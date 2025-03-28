@@ -4,7 +4,7 @@ h2{
 }
 header{
    text-align: center;
-   background: url("images/twoDogs.jng");
+   background: url("images/dogbackground.png");
    background-size: cover;
    padding: 20px, 0px, 0px, 0px
 }
